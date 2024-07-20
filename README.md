@@ -2,7 +2,7 @@
 
 Pasos para correr la aplicación
 * docker volume create ruby-bundle-cache
-* bunble install
+* bundle install
 * rails db:migrate
 * rails db:seed
 
